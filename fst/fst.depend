@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1529627346 source:c:\users\sándor\documents\c++\felkeszules_vizsgara\1\fst\main.cpp
+	<string>
+	<iostream>
+	"arrapp.h"
+	<algorithm>
+	<vector>
+
+1529628457 c:\users\sándor\documents\c++\felkeszules_vizsgara\1\fst\arrapp.h
+	<algorithm>
+	<list>
+	<vector>
+	<array>
+
